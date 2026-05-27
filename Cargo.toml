@@ -1,0 +1,17 @@
+[package]
+name = "fbx2u3d"
+version = "0.1.0"
+edition = "2024"
+description = "CLI converter for CAD-oriented FBX assets into U3D packages"
+license-file = "LICENSE"
+repository = "https://github.com/MysticFrog/FBX2U3D"
+build = "build.rs"
+
+[dependencies]
+clap = { version = "4.5.7", features = ["derive"] }
+fbx = "0.2.0"
+tempfile = "3.12.0"
+thiserror = "2.0.11"
+
+[build-dependencies]
+winresource = "0.1.17"

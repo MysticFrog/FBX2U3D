@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:USERPROFILE}\\.cargo\\bin;C:\\msys64\\mingw64\\bin;${env:PATH}"
+  }
+}

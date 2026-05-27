@@ -1,0 +1,22 @@
+FBX2U3D Project License
+
+Copyright (c) 2026 MysticFrog
+
+This license applies to the original FBX2U3D project files in this repository, excluding any third-party components that are distributed under their own licenses.
+
+1. You may use, copy, modify, and redistribute the original FBX2U3D project files and derivative works for personal, educational, evaluation, research, and other non-commercial purposes.
+
+2. Commercial use is not permitted without prior written agreement from MysticFrog.
+
+3. For the purposes of this license, commercial use includes selling the software, sublicensing it, bundling it into paid offerings, providing it as part of paid client work, offering paid hosted access, or otherwise using the original FBX2U3D project files to generate direct commercial revenue without prior written agreement.
+
+4. If you redistribute the original FBX2U3D project files or derivative works based on them, you must:
+   - preserve this license text
+   - clearly mark the files you changed
+   - keep the original copyright and attribution notices intact
+
+5. Derivative works may be distributed under additional or different terms, but those terms must not remove or obscure this non-commercial restriction for the original FBX2U3D project files covered by this license.
+
+6. Third-party components included with this repository remain under their own licenses. In particular, the bundled Intel Universal 3D Sample Software remains available under Apache License 2.0, and its Apache-granted permissions are not replaced by this project license.
+
+7. THE ORIGINAL FBX2U3D PROJECT FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE ORIGINAL FBX2U3D PROJECT FILES OR THE USE OR OTHER DEALINGS IN THOSE FILES.
