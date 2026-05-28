@@ -4,7 +4,7 @@
 
 - Rust toolchain: `stable-x86_64-pc-windows-gnu`
 - MinGW in `C:\msys64\mingw64\bin`
-- Inno Setup 6 in `C:\Users\ajones\AppData\Local\Programs\Inno Setup 6`
+- Inno Setup 6 in `C:\Users\%USERNAME%\AppData\Local\Programs\Inno Setup 6`
 - Vendored Intel U3D SDK archive in `third_party\u3d-sdk\U3D_A_061228_5.zip` or an installed Intel U3D runtime under `%LOCALAPPDATA%\fbx2u3d\u3d-sdk\U3D_A_061228_5`
 
 ## Build the Installer
